@@ -21,13 +21,8 @@ Here are some ideas to get you started:
 
 </br>
 
-[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=dark)](https://github.com/CyberSecurityUP/github-readme-stats)
 
-:computer: I'm Red Team Leader.
 
-:house_with_garden: I’m from Brazil.
-
-:books: I'm currently learning all about IT and Security.
 
 ## Social Networks
 
