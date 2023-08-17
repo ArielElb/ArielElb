@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact :
+🔭 I’m currently working on: self learing cybersecurity and ethical hacking<br>👯 I’m looking to collaborate on: cybersecurity project<br>🤝 I’m looking for help with: cybersecurity useful resources<br>🌱 I’m currently learning: Computer Science at Bar Ilan University and Comp TIA security + cert<br>💬 Ask me about: Cybersecurity<br>⚡ Fun fact : I love the series Mr. Robot
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
