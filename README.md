@@ -6,8 +6,9 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ariel9935) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariel382)[![LinkedIn]](https://www.linkedin.com/in/ariel-elbaz-830438244/)
-<img src="https://tryhackme-badges.s3.amazonaws.com/ariel1223.png" alt="TryHackMe">
 
+<br/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ariel1223.png" alt="TryHackMe">
 
 
 # 💻 Tech Stack:
