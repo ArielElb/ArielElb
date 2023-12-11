@@ -5,8 +5,10 @@
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ariel9935) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariel382)[![LinkedIn]](https://www.linkedin.com/in/ariel-elbaz-830438244/)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ariel9935) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariel382)[![LinkedIn]]()
+<a href="https://www.linkedin.com/in/ariel-elbaz-830438244/">
+  <img src="https://your-fontawesome-linkedin-icon-code" alt="LinkedIn" style="width: 20px; height: 20px;">
+</a>
 <br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ariel1223.png" alt="TryHackMe">
 
